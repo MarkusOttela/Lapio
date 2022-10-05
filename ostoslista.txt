@@ -5,3 +5,4 @@ kalaa
 sipulia
 raksuja
 saippua
+hammastahna
